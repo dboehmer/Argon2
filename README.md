@@ -76,6 +76,7 @@ Check generated test vectors against available test vectors:
 Bindings to the Argon2 library are available in a number of languages
 * [Rust](https://github.com/quininer/argon2-rs)
 * [Haskell](https://github.com/ocharles/argon2)
+* [Perl5](https://metacpan.org/pod/Crypt::Argon2)
 * [Python](https://github.com/flamewow/argon2_py)
 * [GO](https://github.com/xebia/argon2-go)
 
